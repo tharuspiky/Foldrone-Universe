@@ -1,9 +1,1 @@
-{
-  "name": "Foldrone",
-  "short_name": "Foldrone",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#02040a",
-  "theme_color": "#02040a",
-  "description": "Digital products. One universe."
-}
+{"name":"Foldrone","short_name":"Foldrone","start_url":"/","scope":"/","display":"standalone","background_color":"#02040a","theme_color":"#02040a","description":"Digital products. One universe.","icons":[{"src":"/assets/foldrone-pwa-icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
