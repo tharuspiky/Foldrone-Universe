@@ -1,1 +1,9 @@
-
+{
+  "name": "Foldrone",
+  "short_name": "Foldrone",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02040a",
+  "theme_color": "#02040a",
+  "description": "Digital products. One universe."
+}
